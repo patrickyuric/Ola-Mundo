@@ -1,2 +1,2 @@
 # Ola Mundo
-Meu primeiro repositório
+Meu primeiro repositório na aula de desenvolvimento de sistemas.
